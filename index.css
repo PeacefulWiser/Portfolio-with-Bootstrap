@@ -1,3 +1,11 @@
-.bgimage {
-    background-image: url("resources/Header bg@2x.png");
+* {
+    margin: 0;
+    padding: 0;
 }
+
+body {
+    overflow-x: hidden;
+}
+
+
+
